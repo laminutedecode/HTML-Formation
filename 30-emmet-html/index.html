@@ -1,0 +1,96 @@
+<!-- ! + entr = ouvre le dcotype -->
+!
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Emmet</title>
+  <!-- link + entre = Balise de lien css -->
+  link
+</head>
+
+<body>
+  <!-- nonBalise + entre = créer un element html -->
+
+  section
+  footer
+  div
+  nav
+  ul
+
+  <!-- lorem(nombreDeMotSouhaiter) + entr = integrer du lorem ipsum -->
+  lorem
+
+  <!-- Rajouter des classes ou des id  -->
+  <!-- element.NomClass = donner une classe à un element -->
+  div.box
+
+  <!-- element.Classe.Classe2 = mettre plusieurs classes -->
+  div.cont.box
+
+  <!-- element#nomId = donner un ID un ID a un element -->
+  div#container
+
+  <!-- Pour une div vous pouvez ecrire directement .div -->
+  .card
+
+  <!-- element#monId.MaClasse Rajouter une classe et un id a un element -->
+  element#monId.Maclass
+
+  <!-- {} = rajouter du contenu à l'interieur dun element -->
+  h1{je suis un titre}
+  hi.title#Iden{Je suis un titre}
+
+  <!-- > =  imbrication -->
+  div>ul>li>a
+
+  <!-- + = rajoute un element frere (de même niveau) à un element -->
+  div>p+ul>li
+  div.box>p>ul.list>li.item
+
+  <!-- * = multiplier un element -->
+  div>ul>li*6
+
+
+  <!-- $ = indexer des elements -->
+  ul>li.item.item$*5
+
+  <!-- ^ = monter d'un etage -->
+  div>ul^p
+
+
+  <!-- () = créer des groupe d'elements -->
+  section>(header>div>ul>li*2)+footer>p{je suis le footer}
+
+  <!-- [] = appliquer les attribut directement -->
+  a[href="www.google.fr" target="_blanck" title="Google"]
+
+  <!-- form et inputs -->
+  form
+  form:get
+  form:post
+  input:radio
+  input:checkbox
+  input:submit
+
+  <!-- lab = pour les label -->
+  lab
+
+
+<div>
+  <ul>
+    <li class="item"></li>
+    <li class="item"></li>
+    <li class="item"></li>
+    <li class="item"></li>
+    <li class="item"></li>
+    <li class="item"></li>
+  </ul>
+</div>
+
+</body>
+
+</html>

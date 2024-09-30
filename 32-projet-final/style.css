@@ -1,0 +1,71 @@
+*, ::before, ::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 7rem 1rem;
+}
+
+nav {
+  width: 100%;
+  height: 80px;
+  box-shadow: 0 5px 5px 0 rgba(0,0,0,.3);
+  background: #f1f1f1;
+  display:flex; 
+  justify-content: center; 
+  align-items: center; 
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+}
+
+nav ul li {
+  margin: 0 1rem;
+}
+
+nav ul li a {
+  text-decoration: none;
+  font-weight: bold;
+  color: #333;
+}
+
+h1 {
+  color: crimson;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+hr {
+  border: none; 
+  max-width: 500px;
+  height: 1px;
+  background: crimson;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+}
+
+ol {
+  display:flex; 
+  justify-content: center; 
+  align-items: center; 
+  flex-direction: column;
+  
+}
+
+p, h2, figcaption {
+  text-align:center;
+  margin: 1rem 0;
+}
+
+img, audio {
+  display: block;
+  margin: 2rem auto;
+}

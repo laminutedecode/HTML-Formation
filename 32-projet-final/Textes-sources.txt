@@ -1,0 +1,25 @@
+HTML signifie « HyperText Markup Language » qu'on peut traduire par « langage de balises pour l'hypertexte ». 
+Il est utilisé afin de créer et de représenter le contenu d'une page web et sa structure.
+D'autres technologies sont utilisées avec HTML pour décrire la présentation d'une page (CSS) et/ou ses fonctionnalités interactives (JavaScript).
+
+L'« hypertexte » désigne les liens qui relient les pages web entre elles, que ce soit au sein d'un même site web ou entre différents sites web. Les liens sont un aspect fondamental du Web. 
+Ce sont eux qui forment cette « toile » 
+(ce mot est traduit par web en anglais). En téléchargeant du contenu sur l'Internet et en le reliant à des pages créées par d'autres personnes, vous devenez un participant actif du World Wide Web.
+
+
+Les balises sémantiques
+Footer
+Nav
+Article
+Header
+Les cloathings tags
+br
+hr
+img
+
+Une introduction à HTML
+Dans ce module, on brosse un premier portrait de HTML pour présenter les concepts importants, la syntaxe. On voit comment appliquer HTML sur du texte, comment créer des hyperliens et comment structurer une page web grâce à HTML.
+
+
+
+LIEN de la fin (https://developer.mozilla.org/fr/docs/Web/HTML)

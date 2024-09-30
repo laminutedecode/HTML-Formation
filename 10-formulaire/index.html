@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HTML</title>
+</head>
+<body>
+
+
+
+  <form action="" method="">
+    <!-- les label labelise un input. la valeur de l'atribut "for" doit etre le meme que "l'id" de l'input afin de les liés-->
+    <label for="nom">Nom</label>
+    <!-- Placeholder = indications pour l'utilisateur -->
+    <input id="nom" type="text" placeholder="Indiquez votre nom">
+    <br><br>
+    <label for="prenom">Prenom</label>
+    <input id="prenom" type="text" placeholder="Indiquez votre prenom">
+    <br><br>
+    <!-- input de type e-mail pour un champ de saisi de mail -->
+    <label for="mail">Mail</label>
+    <input name="email" id="mail" type="email" placeholder="Indiquez votre mail">
+    <br><br>
+    <label for="message">Message</label>
+    <br><br>
+     <!--  textarea = champ de saisi de texte sur plusieurs lignes -->
+     <!-- l'attribut name est le libbelé que va recevoir le back-end -->
+     <!-- cols et rows est pour gerer la taille du textarea (on prefere le faire en CSS directement) -->
+    <textarea name="" id="message" cols="50" rows="20"></textarea>
+    <br><br>
+     <!-- bouton d'envoi. Vu quil estentre la balise FORM l'attribut type="submit" n'est pas obligatoire -->
+
+    <button>Envoyer le message</button>
+  </form>
+  
+</body>
+</html>
