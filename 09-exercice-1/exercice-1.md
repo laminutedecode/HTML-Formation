@@ -27,6 +27,3 @@ Mettre en pratique les connaissances acquises sur les balises de base HTML, les 
 - Veillez à respecter la structure HTML et l'imbrication des éléments.
 - Utilisez correctement les classes comme indiqué dans les instructions.
 - Assurez-vous que vos liens sont correctement configurés.
-
-## Rendu
-Complétez le fichier index.html en remplaçant les commentaires par votre code HTML.
