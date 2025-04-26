@@ -1,5 +1,7 @@
 # Formation HTML de A à Z
 
+![La Minute De Code](https://www.laminutedecode.com/_next/image?url=https%3A%2F%2Fcdn.sanity.io%2Fimages%2Fhtniyx9j%2Fproduction%2F0560ad205c64064f7db4de067867d1c492040075-1920x1080.webp&w=1920&q=75)
+
 ## 📚 Présentation de la formation
 
 Cette formation complète **HTML de A à Z** couvre tous les fondamentaux du HTML, de la structure de base aux concepts avancés comme la sémantique, l'accessibilité et les formulaires. Vous apprendrez à concevoir des pages web bien organisées et optimisées tout en suivant les bonnes pratiques du développement.
@@ -78,7 +80,6 @@ Cette formation est idéale pour les débutants et ceux qui souhaitent renforcer
 
 - [Formation complète sur La Minute De Code](https://www.laminutedecode.com/tutoriels/apprendre-le-html-de-a-a-z)
 - [Documentation officielle HTML (MDN)](https://developer.mozilla.org/fr/docs/Web/HTML)
-- [Validateur HTML W3C](https://validator.w3.org/)
 
 ## 📞 Support et contact
 
