@@ -67,7 +67,7 @@ Cette formation est idéale pour les débutants et ceux qui souhaitent renforcer
 ## 📂 Organisation des fichiers
 
 - **00-Livret** : Contient un livret PDF avec le contenu théorique du cours
-- **Chapitres 1-40** : Dossiers organisés par chapitre avec les ressources nécessaires
+- **Chapitres 1-32** : Dossiers organisés par chapitre avec les ressources nécessaires
 
 ## 🚀 Comment utiliser cette formation
 
